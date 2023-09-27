@@ -1,21 +1,23 @@
 # Meu Portfólio
-Bem vindo ao repositório do meu portfólio! Este repositório tem a finalidade de abrigar os meus projetos que representam minha jornada no mundo do desenvolvimento web. Aqui você irá encontrar projetos que abrangem front-end, back-end e muito mais.
+Este é o repositório do meu portfólio pessoal, uma simples página web que desenvolvi para compartilhar informações sobre mim e meus projetos. O site foi desenvolvido utilizando HTML, CSS, JavaScript e PHP para torná-lo interativo e informativo.
 
-## 🔥Principais Projetos
+## Sobre o Projeto
 
-- [Dashboard Covid-19](): Este projeto teve como objetivo a construção de um Dashboard com elementos gráficos apresentando os números da Covid-19 a ser consumido de uma API, utilizando HTML, CSS e JavaScript.
-- [App Investimentos](): Este projeto teve como objetivo a construção de uma aplicação que mostra o rendimento de sete fundos durante determinado ano, utilizando React.
-- [Resultado Eleições](): Este projeto teve como objetivo a construção de uma aplicação que mostra o resultado de eleições em 5 municípios, utilizando React.
-- [Cadastro de Usuário ](): Este projeto teve como objetivo a construção de uma aplicação que mostra o rendimento de sete fundos durante determinado ano, utilizando React.
-- [Gestão Despesas Pessoais](): Este projeto teve como objetivo a construção de uma aplicação simplificada de  gestão de despesas pessoais de um determinado ano/mês selecionado a soma das despesas, utilizando React, TypeScript, Material-UI e React Router.
+Meu portfólio é uma vitrine digital onde você pode encontrar detalhes sobre minha formação, habilidades e projetos. Ele foi desenvolvido com as seguintes tecnologias:
 
-## 🛠️ Minhas Habilidades
-Aqui estão algumas das habilidades que eu domino:
-- 💻 **Linguagens**: HTML, CSS, JavaScript e Typescript
-- ⚙️ **Frameworks**: React, Node.js, Bootstrap
-- 📦 **Bancos de Dados**: MySQL, MongoDB
-- 📂 **Controle de Versão**: Git, GitHub
-- 🎨 **Design Responsivo**: CSS Flexbox, Grid
+- **HTML**: Utilizado para criar a estrutura e o conteúdo do site.
+- **CSS**: Responsável por toda a estilização e torná-lo atraente visivelmente.
+- **JavaScript**: Adiciona interatividade, como animações no posicionamento das informações e efeitos de rolagem suave.
+- **PHP**: Utilizado para processar o formulário de contato. 
+
+## Principais Funcionalidades
+
+Meu portfólio inclui as seguintes seções:
+
+- Uma página principal que com uma navbar, logomarca e uma foto.
+- Uma seção que mostra um breve introdução sobre mim e minhas habilidades.
+- Uma seção que mostra meus projetos web já desenvolvidos e em desenvolvimento.
+- Uma seção de contato que contem um formulário para entrar contato via e-mail e links para o LinkedIn, GitHub e WhatsApp.
 
 ## 📫 Entre em Contato
 
