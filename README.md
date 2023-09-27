@@ -14,8 +14,8 @@ Bem vindo ao repositório do meu portfólio! Este repositório tem a finalidade 
 Meus conhecimentos inclui: 
 
 - HTML, CSS e JavaScript
-- Frameworks front-end como React e Angula
-- Node.js e Express prara desenvolvimento back-end
+- Frameworks front-end como React e Angular
+- Node.js e Express para desenvolvimento back-end
 - Banco de dados MySQL e MongoDB
 - Versionamento com Git e GitHub
 
@@ -37,4 +37,3 @@ Se você está interessado em colaborar em um projeto, contratar meus serviços 
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
 </div>
-
